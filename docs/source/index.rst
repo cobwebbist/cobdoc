@@ -1,9 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to CobDoc documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+**CobDoc** is a Python library for cobwebbists
+that creates random stuff.
+It pulls data from the `Open Linked Data web <https://en.wikipedia.org/wiki/Linked_data#Linked_open_data>`_
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
